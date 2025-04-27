@@ -25,7 +25,7 @@ function timeRunner() {
         }
 
         seconds++;
-    }, 10);
+    }, 1000);
 }
 
 
